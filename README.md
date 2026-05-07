@@ -4,7 +4,7 @@ By Team XORcists:
 1. Aditya Vikram Chaudhary
 2. Aditya Gupta
 3. Vedaansh Lakhani
-4. Dhruv Agrawal
+4. Unmesh Goutima Behera
 5. Shah Kunj
    
 ## Overview:
