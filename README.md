@@ -1,10 +1,10 @@
 # **AquaGuard – Simulated IoT-based Water Management System** 
 
 By Team XORcists:
-1. Aditya Vikram Chaudhary
+1. Unmesh Goutima Behera
 2. Aditya Gupta
 3. Vedaansh Lakhani
-4. Unmesh Goutima Behera
+4. Aditya Vikram Chaudhary
 5. Shah Kunj
    
 ## Overview:
